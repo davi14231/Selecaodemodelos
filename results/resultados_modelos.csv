@@ -1,0 +1,8 @@
+modelo,acuracia_cv,acuracia_teste,precisao_teste,recall_teste,melhores_parametros
+Regressão Logística,0.9667,1.0000,1.0000,1.0000,"C=37454011.88"
+SVM,0.9667,0.9667,0.9697,0.9667,"C=73938.28; degree=2; gamma=0.00097086; kernel=sigmoid"
+K-NN,0.9583,0.9667,0.9697,0.9667,"n_neighbors=15"
+Naive Bayes,0.9583,0.9667,0.9697,0.9667,"sem busca de hiperparâmetros"
+Árvore de Decisão,0.9417,0.9333,0.9333,0.9333,"max_depth=277; max_leaf_nodes=162; min_samples_leaf=0.3112; min_samples_split=0.5295"
+Rede Neural,0.9167,0.8333,0.8498,0.8333,"activation=tanh; hidden_layer_sizes=(75,); learning_rate_init=0.3010; max_iter=206; momentum=0.8898"
+
